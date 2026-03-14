@@ -10,7 +10,7 @@ kinetics and Bayesian analysis of autophagic stages are available,
 providing insights into each gene’s activation timing and specific roles
 in autophagosome formation and clearance.
 
-URL: [https://cancell.shinyapps.io/autodry/](https://cancell.shinyapps.io/autodry/)
+URL: [[https://cancell.shinyapps.io/autodry](https://cancell-apps.medisin.uio.no/AutoDRY/)/]([https://cancell.shinyapps.io/autodry/](https://cancell-apps.medisin.uio.no/AutoDRY/))
 
 #### Citation
 
