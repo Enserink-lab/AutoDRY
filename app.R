@@ -409,7 +409,7 @@ search_page <-
             ),
             #htmltools::div(style = "flex-grow: 1;"),
             htmltools::div(
-              shiny::HTML("Citation: Chica et al., bioRxiv (2025). <b>Time-resolved functional genomics using deep learning reveals a global hierarchical control of autophagy</b>. <a name='citation' href='https://www.biorxiv.org/content/10.1101/2024.04.06.588104v2' target='_blank'>doi: 10.1101/2024.04.06.588104</a>."),
+              shiny::HTML("Citation: Chica et al., Nat Cell Biol (2026). <b>Time-resolved functional genomics using deep learning reveals a global hierarchical control of autophagy</b>. <a name='citation' href='https://www.nature.com/articles/s41556-025-01837-0' target='_blank'>doi: 10.1038/s41556-025-01837-0</a>."),
             ),
             shiny::conditionalPanel(
               condition = "output.isSafari",

@@ -25,5 +25,5 @@ Zucknick, Tor Erik Rusten, and Jorrit M. Enserink.
 hierarchical control of autophagy (Nat Cell Biol,
 2026)](https://www.nature.com/articles/s41556-025-01837-0)
 
-Correspondence to [*nathac\@uio.no*](mailto:nathac@uio.no){.email} or
-[*j.m.enserink\@ibv.uio.no*](mailto:j.m.enserink@ibv.uio.no){.email}
+Correspondence to nathac _AT_ uio.no or
+j.m.enserink _AT_ ibv.uio.no

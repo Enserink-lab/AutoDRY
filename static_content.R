@@ -1,8 +1,8 @@
 paper_info <- paste0(
   "<h5><b><p style=text-align:justify;'>",
-  "<a href='https://www.biorxiv.org/content/10.1101/2024.04.06.588104v2 ",
+  "<a href='https://www.nature.com/articles/s41556-025-01837-0' ",
   "target='_blank'>Time-resolved functional genomics using deep learning ",
-  "reveals a global hierarchical control of autophagy (bioRxiv, 2025)</a></p></b></h5>",
+  "reveals a global hierarchical control of autophagy (Nat Cell Biol, 2026)</a></p></b></h5>",
   "<h6><p style='text-align:justify;'>",
   htmltools::includeText("data/section_content/authors.md"),
   "</p></h6>",
